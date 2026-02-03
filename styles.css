@@ -116,3 +116,25 @@ h2 {
     width: 170px;
     margin-top: 8px;
 }
+
+.section3 {
+    background-color: #e5e7eb;
+    padding: 128px 224px 128px 224px;
+    display: flex;
+    justify-content: center;
+}
+
+blockquote {
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+    width: 780px;
+}
+
+figcaption {
+    font-size: 24px;
+    color: #1f2937;
+    font-weight: 800;
+    width: 750px;
+    text-align: right;
+}
