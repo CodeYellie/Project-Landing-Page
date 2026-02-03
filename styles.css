@@ -39,7 +39,7 @@ a {
 .section1 {
     display: flex;
     background-color: #1f2937;
-    padding: 128px 224px 128px 224px;
+    padding: 114px 224px 142px 224px;
     justify-content: space-between;
     max-height: 500px;
 }
@@ -67,9 +67,8 @@ p {
 
 .signup1 {
     background-color: #3882f6;
-    padding: 8px 0px 8px 0px;
-    max-width: 125px;
-    max-height: 50px;
+    padding: 8px 8px;
+    max-width: 140px;
     border-radius: 8px;
     border: 0px;
     margin-top: 12px;
