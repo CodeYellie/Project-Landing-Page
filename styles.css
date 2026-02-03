@@ -138,3 +138,33 @@ figcaption {
     width: 750px;
     text-align: right;
 }
+
+.section4 {
+    padding: 112px 224px 112px 224px;
+}
+
+.cta-block {
+    background-color: #3882f6;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 56px 128px 56px 128px;
+}
+
+h3 {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.cta-button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #f9faf8;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px 32px 8px 32px;
+}
