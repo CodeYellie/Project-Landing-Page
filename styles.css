@@ -17,7 +17,7 @@ header {
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
-    padding: 0px 192px 0px 192px;
+    padding: 0px 224px 0px 224px;
 }
 
 .header-links {
@@ -34,4 +34,45 @@ li {
 a {
     text-decoration: none;
     color: #e5e7eb;
+}
+
+.section1 {
+    display: flex;
+    background-color: #1f2937;
+    padding: 128px 224px 128px 224px;
+    justify-content: space-between;
+    max-height: 500px;
+}
+
+.birds-img {
+    max-height: 220px;
+}
+
+.main-text {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+}
+
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+p{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.signup1 {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 8px 16px 8px 16px;
+    max-width: 100px;
+    max-height: 50px;
+    border-radius: 8px;
+    border: 0px;
+    margin-top: 12px;
+    font-weight: 900;
 }
